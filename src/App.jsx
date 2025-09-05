@@ -5,7 +5,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <h1>3239 Legends Preserve Dr, Daytona Beach, FL 32124</h1>
-        <img src="./pic1_3239.jpeg" width="806" height="604" alt="pic1" />
+        <img src="/pic1_3239.jpeg" width="806" height="604" alt="pic1" />
         <div style={{ display: "flex", gap: "0px" }}>
           <img src="./pic2_3239.webp" width="403" height="302" alt="pic2" />
           <img src="./pic3_3239.webp" width="403" height="302" alt="pic3" />
