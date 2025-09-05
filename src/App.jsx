@@ -16,7 +16,7 @@ function App() {
           <img src="./pic6_3239.webp" width="403" height="302" alt="pic6" />
         </div>
         <img src="./pic7_3239.webp" width="806" height="604" alt="pic7" />
-        <img src="./pic8_3239.webp" width="806" height="604" alt="pic8" />
+        <img src="./pic8_3239.webp" type="image/webp" width="806" height="604" alt="pic8" />
 
 
       </header>      
