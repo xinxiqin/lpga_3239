@@ -8,7 +8,7 @@ function App() {
         <h2 style={{ color: 'green' }}>
           Golf View & Lake View
         </h2>
-        4 Beds | 3 Baths | 2,190 Sqft | Build in 2024 | $499,990
+        4 Beds | 3 Baths | 2,190 Sqft | Build in 2024 | $???
         <br />
         <br />
    
